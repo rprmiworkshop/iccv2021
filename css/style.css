@@ -632,15 +632,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 # Other Sections
 --------------------------------------------------------------*/
 
-#aims, #topics, #dates, #submission, #committee, #program, #attending, #contacts {
+#aims, #topics, #dates, #submission, #committee, #program, #attending, #contacts, #keynote {
   padding: 60px 0 30px 0;
 }
 
-#aims .container-fluid, #topics .container-fluid, #dates .container-fluid, #submission .container-fluid, #committee .container-fluid, #program .container-fluid, #attending .container-fluid, #contacts .container-fluid {
+#aims .container-fluid, #keynote .container-fluid, #topics .container-fluid, #dates .container-fluid, #submission .container-fluid, #committee .container-fluid, #program .container-fluid, #attending .container-fluid, #contacts .container-fluid {
   margin-bottom: 3px;
 }
 
-#aims > div > div > ul, #topics > div > div > ul, #dates > div > div > ul, #submission > div > div > ul, #committee > div > div > ul, #program > div > div > ul, #attending > div > div > ul, #contacts > div > div > ul {
+#aims > div > div > ul, #topics > div > div > ul, #dates > div > div > ul, #keynote > div > div > ul, #submission > div > div > ul, #committee > div > div > ul, #program > div > div > ul, #attending > div > div > ul, #contacts > div > div > ul {
     text-align: left;
     padding: 0;
     margin: 10px auto 30px auto;
